@@ -105,6 +105,25 @@ Example for Oracle:
 </p>
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankalpvasekar&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankalpvasekar&theme=github_dark&utcOffset=5.5" width="48%" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sankalpvasekar&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankalpvasekar&theme=github_dark" width="48%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
 <!-- LICHESS_START -->
 <pre><code>
           _      _      _
@@ -131,24 +150,6 @@ Last update: 01.05.2026 04:05:45
 </code></pre>
 <!-- LICHESS_END -->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankalpvasekar&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankalpvasekar&theme=github_dark&utcOffset=5.5" width="48%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sankalpvasekar&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankalpvasekar&theme=github_dark" width="48%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
 
 ---
 

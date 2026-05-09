@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Data+Scientist;Multi-Agent+Orchestration+Architect;Agentic+AI+Infrastructure+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Data+Scientist;Multi-Agent+Orchestration+Architect;Agentic+AI+Engineer" />
 </div>
 
 ---

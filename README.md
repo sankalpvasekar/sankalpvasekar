@@ -98,16 +98,43 @@ Example for Oracle:
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 System Diagnostics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankalpvasekar&theme=github_dark" width="96%" />
 </p>
 
+<!-- LICHESS_START -->
+<pre><code>
+          _      _      _
+         | |    (_)    | |
+         | |     _  ___| |__   ___  ___ ___
+         | |    | |/ __| '_ \ / _ \/ __/ __|
+         | |____| | (__| | | |  __/\__ \__ \
+         |______|_|\___|_| |_|\___||___/___/
+
+    2130 ┤                                                              ╭
+    2042 ┤                                                              │
+    1954 ┤                                              ╭╮  ╭╮          │
+    1866 ┤                                         ╭╮ ╭─╯╰──╯╰──╮ ╭─────╯
+    1778 ┤                           ╭╮  ╭──╮╭──╮╭─╯╰─╯         ╰─╯
+    1690 ┤                        ╭╮╭╯╰──╯  ╰╯  ╰╯
+    1602 ┼╮                   ╭──╮│╰╯
+    1514 ┤│   ╭───╮╭─╮╭╮╭─────╯  ╰╯
+    1426 ┤╰╮ ╭╯   ╰╯ ╰╯╰╯
+    1338 ┤ ╰─╯
+    1250 ┤
+
+User: christopsy666, Rating type: Bullet on lichess.org
+Last update: 01.05.2026 04:05:45
+</code></pre>
+<!-- LICHESS_END -->
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankalpvasekar&theme=github_dark" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankalpvasekar&theme=github_dark&utcOffset=5.5" width="48%" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sankalpvasekar&theme=github_dark" width="48%" />

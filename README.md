@@ -101,8 +101,9 @@ Example for Oracle:
 ### 📊 System Diagnostics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankalpvasekar&theme=github_dark" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalpvasekar&show_icons=true&hide_title=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FFD700&border_color=1a1a2e&hide_border=false" width="96%" />
 </p>
+
 
 <!-- LICHESS_START -->
 <pre><code>

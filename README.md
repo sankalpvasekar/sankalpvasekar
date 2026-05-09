@@ -79,15 +79,16 @@ Example for Oracle:
   - Go to your Oracle certification page → Download badge image
 -->
 
-<p align="center">
-  <!-- Replace these with your actual badge URLs from Credly/Oracle/Microsoft -->
-  <a href="#"><img src="https://img.shields.io/badge/OCI_Gen_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OCI_Gen_AI_Foundational-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/IBM_SkillsBuild_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python_Data_Science_(NPTEL_Top_5%25)-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/DBMS_(NPTEL_Top_5%25)-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-</p>
+<div align="center">
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="assets/OCI_AI%20_Proessional%20_Badge.jpg" width="180" /> | <img src="assets/OCI%20AI%20FOUNDATION%20BADGE.jpeg" width="180" /> | <img src="assets/OCI_CLoud_Infrastrucutre_Bade.jpeg" width="180" /> |
+| <img src="assets/Digital%20Sticker_The%20Rise%20of%20Multiagent%20Systems.png" width="180" /> | <img src="assets/Digital%20Sticker_IBM%20Granite%20Models%20for%20Software%20Development%20(1).png" width="180" /> | <img src="assets/Digital%20Sticker_Introduction%20to%20Large%20Language%20Models.png" width="180" /> |
+| <img src="assets/CodeChefBadge.png" width="180" /> | | |
+
+</div>
+
 
 **Achievements**
 - 🏆 **Contract Developer** — Prime Educational Services

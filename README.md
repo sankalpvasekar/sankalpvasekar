@@ -4,13 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Agentic+AI+Infrastructure+Engineer;Orchestrating+Multi-Agent+Systems;Neural+Localization+Architect" />
 </div>
 
-### 📜 The Architect's Ledger
-> "Orchestrating the intersection of Neural Localization and Agentic Infrastructure."
+### Hi there, I'm Sankalp! 👋
+I am an **AI Systems Engineer** specialized in orchestrating **Multi-Agent Systems**, building **Neural Localization Engines**, and architecting **Scalable AI Infrastructure**.
 
-- **📡 Base of Operations:** Pune, India 🇮🇳
-- **🎓 Intellectual Core:** SKN Sinhgad College of Engineering (AI Specialization)
-- **⚡ Current Trajectory:** Refining Multi-Agent RAG Orchestration & OCI-backed Neural Systems.
-- **🎖️ Primary Credential:** [OCI 2025 AI Foundations Associate](https://oracle.com)
+- 🔭 Currently refining **ScholarFlow-AI** (Multi-Agent RAG) and **Anuvad** (Neural STEM Localization).
+- 🧠 Deeply interested in **Cognitive Architectures** and **Persistent State Management**.
+- ☁️ Specialized in **OCI-backed Neural Systems** (OCI 2025 AI Foundations Certified).
+- 📍 Based in **Pune, India**.
+
 
 ### 🏛️ System Orchestration Matrix
 

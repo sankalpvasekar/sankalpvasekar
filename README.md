@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Computer+Engineer+%7C+AI%2FML+Engineer;Multi-Agent+Systems+Architect;Neural+Localization+Engineer;Data+Analyst+%7C+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Data+Scientist;Multi-Agent+Orchestration+Architect;Agentic+AI+Infrastructure+Engineer" />
 </div>
 
 ---
@@ -20,6 +20,7 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

@@ -151,8 +151,6 @@ Last update: 01.05.2026 04:05:45
 <!-- LICHESS_END -->
 
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=80&section=footer" width="100%" />
 </div>

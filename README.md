@@ -124,33 +124,3 @@ Example for Oracle:
   <img src="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<!-- LICHESS_START -->
-<pre><code>
-          _      _      _
-         | |    (_)    | |
-         | |     _  ___| |__   ___  ___ ___
-         | |    | |/ __| '_ \ / _ \/ __/ __|
-         | |____| | (__| | | |  __/\__ \__ \
-         |______|_|\___|_| |_|\___||___/___/
-
-    2130 ┤                                                              ╭
-    2042 ┤                                                              │
-    1954 ┤                                              ╭╮  ╭╮          │
-    1866 ┤                                         ╭╮ ╭─╯╰──╯╰──╮ ╭─────╯
-    1778 ┤                           ╭╮  ╭──╮╭──╮╭─╯╰─╯         ╰─╯
-    1690 ┤                        ╭╮╭╯╰──╯  ╰╯  ╰╯
-    1602 ┼╮                   ╭──╮│╰╯
-    1514 ┤│   ╭───╮╭─╮╭╮╭─────╯  ╰╯
-    1426 ┤╰╮ ╭╯   ╰╯ ╰╯╰╯
-    1338 ┤ ╰─╯
-    1250 ┤
-
-User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.05.2026 04:05:45
-</code></pre>
-<!-- LICHESS_END -->
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=80&section=footer" width="100%" />
-</div>

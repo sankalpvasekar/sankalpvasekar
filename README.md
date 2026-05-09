@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=header&text=SANKALP%20VASEKAR&fontSize=42&fontColor=FF0000&fontAlignY=35&animation=twinkling&shadow=true" width="100%" />
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=100&section=header&text=SANKALP%20VASEKAR&fontSize=42&fontColor=FF0000&fontAlignY=35&animation=twinkling&shadow=true" width="100%" />
+  <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Data+Scientist;Full+Stack+Developer" />
 </div>
+
 
 ---
 

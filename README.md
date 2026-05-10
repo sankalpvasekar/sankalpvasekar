@@ -133,56 +133,72 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ---
 
-### 🛡️ Professional Badges
-<p align="center">
-  <img src="assets/OCI_CLoud_Infrastrucutre_Bade.jpeg" width="180" />
-  <img src="assets/OCI AI FOUNDATION BADGE.jpeg" width="180" />
-  <img src="assets/OCI_AI _Proessional _Badge.jpg" width="180" />
-</p>
-<p align="center">
-  <img src="assets/Digital Sticker_Introduction to Large Language Models.png" width="180" />
-  <img src="assets/Digital Sticker_The Rise of Multiagent Systems.png" width="180" />
-  <img src="assets/Digital Sticker_IBM Granite Models for Software Development (1).png" width="180" />
-</p>
-<p align="center">
-  <img src="assets/CodeChefBadge.png" width="180" />
-</p>
-
----
 
 ### 🏅 Certifications & Achievements
 
-<!-- 
-📌 HOW TO ADD CERTIFICATION BADGES:
-1. Go to your certification provider (Credly, Oracle, Microsoft, etc.)
-2. Click "Share" on your badge → Copy the embed/image URL
-3. Replace the placeholder URLs below with your actual badge image URLs
-4. Format: <img src="YOUR_BADGE_IMAGE_URL" width="120" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Oracle-OCI_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+        <p><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong><br/><em>Oracle (2025)</em></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/IBM-Agentic_AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+        <p><strong>Agentic AI: From Learner to Builder</strong><br/><em>IBM</em></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/IBM-AI_Strategy_Internship-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+        <p><strong>IBM SkillsBuild AI Strategy & Business Intelligence Internship</strong><br/><em>IBM</em></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/NPTEL-Python_for_Data_Science-D2691E?style=for-the-badge&logo=python&logoColor=white" />
+        <p><strong>Python for Data Science</strong><br/><em>NPTEL</em></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/NPTEL-DBMS-D2691E?style=for-the-badge&logo=database&logoColor=white" />
+        <p><strong>Database Management System</strong><br/><em>NPTEL</em></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Hackathon-2k25_Winner-B8860B?style=for-the-badge&logo=none" />
+        <p><strong>Hackathon 2k25 Winner</strong><br/><em>SKN Sinhgad</em></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Project-PBL_Certificate-008080?style=for-the-badge&logo=none" />
+        <p><strong>Project Based Learning Certificate</strong><br/><em>SKN Sinhgad</em></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/CodeChef-Diamond_Badge-000000?style=for-the-badge&logo=codechef&logoColor=white" />
+        <p><strong>Diamond Badge</strong><br/><em>CodeChef</em></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-Example for Credly:
-  - Go to credly.com → Your Badges → Click a badge → Share → Copy embed link
-  - The URL looks like: https://images.credly.com/size/340x340/images/xxx/badge.png
-
-Example for Oracle:
-  - Go to your Oracle certification page → Download badge image
--->
-
-<p align="center">
-  <!-- Replace these with your actual badge URLs from Credly/Oracle/Microsoft -->
-  <a href="#"><img src="https://img.shields.io/badge/OCI_Gen_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OCI_Gen_AI_Foundational-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/IBM_SkillsBuild_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python_Data_Science_(NPTEL_Top_5%25)-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/DBMS_(NPTEL_Top_5%25)-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-</p>
-
-**Achievements**
+**Additional Highlights**
 - 🏆 **Contract Developer** — Prime Educational Services
-- 🥇 **Hackathon Winner** — SKNSCOE 2025
 - 🥇 **Golden Badge in Python** — HackerRank
 - 🏆 **Spectrum UI/UX Competition Winner**
-- 💎 **Diamond Badge** — CodeChef
 
 ---
 

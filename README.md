@@ -62,7 +62,7 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
           <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=none" />
         </p>
         <p>Multi-Agent RAG Research Assistant that automates academic literature reviews and data synthesis.</p>
-        <a href="https://scholar-flow-ai.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20LIVE-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://scholar-flow-ai-alpha.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20LIVE-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </div>
     </td>
     <td width="50%" valign="top">

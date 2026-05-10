@@ -181,120 +181,81 @@ Example for Oracle:
   - Go to your Oracle certification page → Download badge image
 -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="16">
   <tr>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>🏅 OCI: Generative AI Professional</h4>
-        <p>
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-          <img src="https://img.shields.io/badge/Gen_AI-000000?style=for-the-badge&logo=none" />
-        </p>
-        <a href="assets/certificates/cr_ao_profesisonal.jpeg" target="_blank">
-          <img src="assets/certificates/cr_ao_profesisonal.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ao_profesisonal.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>🏅 OCI: Generative AI Professional</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gen_AI-000000?style=for-the-badge&logo=none" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ao_profesisonal.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>🏅 OCI: Generative AI Foundations</h4>
-        <p>
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-          <img src="https://img.shields.io/badge/Foundations-000000?style=for-the-badge&logo=none" />
-        </p>
-        <a href="assets/certificates/cr_ai_foundation.jpeg" target="_blank">
-          <img src="assets/certificates/cr_ai_foundation.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ai_foundation.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>🏅 OCI: Generative AI Foundations</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Foundations-000000?style=for-the-badge&logo=none" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ai_foundation.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>🎓 NPTEL: Database Management System</h4>
-        <p>
-          <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-          <img src="https://img.shields.io/badge/DBMS-008080?style=for-the-badge&logo=none" />
-        </p>
-        <a href="assets/certificates/cr_dbms.jpeg" target="_blank">
-          <img src="assets/certificates/cr_dbms.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_dbms.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>🎓 NPTEL: Database Management System</h4>
+      <p>
+        <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+        <img src="https://img.shields.io/badge/DBMS-008080?style=for-the-badge&logo=none" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_dbms.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>🎓 NPTEL: Python for Data Science</h4>
-        <p>
-          <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        </p>
-        <a href="assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank">
-          <img src="assets/certificates/cr_python_for_dta_scinece.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>🎓 NPTEL: Python for Data Science</h4>
+      <p>
+        <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>💼 IBM SkillsBuild: AI Foundations</h4>
-        <p>
-          <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-          <img src="https://img.shields.io/badge/SkillsBuild-FF8C00?style=for-the-badge&logo=none" />
-        </p>
-        <a href="assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank">
-          <img src="assets/certificates/traning_ibm_skillbuild.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>💼 IBM SkillsBuild: AI Foundations</h4>
+      <p>
+        <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/SkillsBuild-FF8C00?style=for-the-badge&logo=none" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>💼 IBM: AI Internship Certificate</h4>
-        <p>
-          <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-          <img src="https://img.shields.io/badge/Internship-007808?style=for-the-badge&logo=none" />
-        </p>
-        <a href="assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank">
-          <img src="assets/certificates/traning-ibm_internship_ain.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>💼 IBM: AI Internship Certificate</h4>
+      <p>
+        <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Internship-007808?style=for-the-badge&logo=none" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-007808?style=for-the-badge&logo=none&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>📊 Forage: Power BI Job Simulation</h4>
-        <p>
-          <img src="https://img.shields.io/badge/Forage-000000?style=for-the-badge&logo=none" />
-          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-        </p>
-        <a href="assets/certificates/tr_powerbi_internship.jpeg" target="_blank">
-          <img src="assets/certificates/tr_powerbi_internship.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/tr_powerbi_internship.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>📊 Forage: Power BI Job Simulation</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Forage-000000?style=for-the-badge&logo=none" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/tr_powerbi_internship.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
     </td>
     <td width="50%" valign="top">
-      <div align="left">
-        <h4>🚀 ISRO: Indian Space Academy</h4>
-        <p>
-          <img src="https://img.shields.io/badge/ISRO-FF9933?style=for-the-badge&logo=none" />
-          <img src="https://img.shields.io/badge/Space_Tech-138808?style=for-the-badge&logo=none" />
-        </p>
-        <a href="assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank">
-          <img src="assets/certificates/trnaing_indian_space_academy.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
-        </a>
-        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
-      </div>
+      <h4>🚀 ISRO: Indian Space Academy</h4>
+      <p>
+        <img src="https://img.shields.io/badge/ISRO-FF9933?style=for-the-badge&logo=none" />
+        <img src="https://img.shields.io/badge/Space_Tech-138808?style=for-the-badge&logo=none" />
+      </p>
+      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-FF9933?style=for-the-badge&logo=none&logoColor=white" /></a>
     </td>
   </tr>
 </table>
+
 
 
 <br/>

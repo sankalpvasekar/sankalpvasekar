@@ -49,16 +49,87 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ---
 
-### 🏛️ Project Ecosystem
+### 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **ScholarFlow-AI** | Multi-Agent RAG Research Assistant | LangChain, Groq, Vector DB | [🚀 Live](https://scholar-flow-ai.vercel.app/) |
-| **Anuvad-Localize-Engine** | Neural Video Localization (22+ languages) | Whisper v3, IndicTrans2, FFmpeg | [🌐 Repo](https://github.com/sankalpvasekar/Anuvad-Localize-Engine) |
-| **Eduverse** | Multi-Agent AI Ecosystem | FastAPI, LangGraph, MongoDB | [🛠️ Repo](https://github.com/sankalpvasekar/Eduverse) |
-| **UniPrep-Platform** | AI Exam Prediction & Prep | React, Django, Llama 3.1 | [📊 Repo](https://github.com/sankalpvasekar/UniPrep-University-Prepration-Platform) |
-| **Ai-Virtual-Assistant** | NLP-powered Task Automation | Python, NLP | [📂 Repo](https://github.com/sankalpvasekar/Ai-Virtual-Assistant) |
-| **PhishGuard** | Neural Phishing Detection | Python, ML | [🛡️ Repo](https://github.com/sankalpvasekar/PhishGuard) |
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>🚀 ScholarFlow-AI</h4>
+        <p>
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+          <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=none" />
+          <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=none" />
+        </p>
+        <p>Multi-Agent RAG Research Assistant that automates academic literature reviews and data synthesis.</p>
+        <a href="https://scholar-flow-ai.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20LIVE-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>🌐 Anuvad-Localize-Engine</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Whisper_v3-000000?style=for-the-badge&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/IndicTrans2-FF8C00?style=for-the-badge&logo=none" />
+          <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+        </p>
+        <p>Neural Video Localization engine supporting 22+ languages with precise speech-to-text and translation.</p>
+        <a href="https://github.com/sankalpvasekar/Anuvad-Localize-Engine"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>🛠️ Eduverse</h4>
+        <p>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge&logo=langchain&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        </p>
+        <p>A comprehensive Multi-Agent AI Ecosystem for educational automation and intelligent tutoring.</p>
+        <a href="https://github.com/sankalpvasekar/Eduverse"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>📊 UniPrep-Platform</h4>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/Llama_3.1-000000?style=for-the-badge&logo=meta&logoColor=white" />
+        </p>
+        <p>AI-powered platform for exam prediction and preparation tailored for university students.</p>
+        <a href="https://github.com/sankalpvasekar/UniPrep-University-Prepration-Platform"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>📂 Ai-Virtual-Assistant</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=none" />
+        </p>
+        <p>NLP-powered task automation assistant for streamlining daily developer workflows.</p>
+        <a href="https://github.com/sankalpvasekar/Ai-Virtual-Assistant"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>🛡️ PhishGuard</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/ML-FF4B11?style=for-the-badge&logo=none" />
+        </p>
+        <p>Neural Phishing Detection system designed to identify and block malicious URLs in real-time.</p>
+        <a href="https://github.com/sankalpvasekar/PhishGuard"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 ---
 

@@ -8,6 +8,14 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ---
 
+<p align="center">
+  <a href="https://sankalpvasekar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-sankalpvasekar.vercel.app-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ My Technical Stack
 
 **Languages & Scripting**
@@ -35,8 +43,14 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools & DevOps**
 
@@ -179,7 +193,7 @@ Example for Oracle:
         <a href="assets/certificates/cr_ao_profesisonal.jpeg" target="_blank">
           <img src="assets/certificates/cr_ao_profesisonal.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/cr_ao_profesisonal.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ao_profesisonal.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -192,7 +206,7 @@ Example for Oracle:
         <a href="assets/certificates/cr_ai_foundation.jpeg" target="_blank">
           <img src="assets/certificates/cr_ai_foundation.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/cr_ai_foundation.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ai_foundation.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
   </tr>
@@ -207,7 +221,7 @@ Example for Oracle:
         <a href="assets/certificates/cr_dbms.jpeg" target="_blank">
           <img src="assets/certificates/cr_dbms.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/cr_dbms.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_dbms.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -220,7 +234,7 @@ Example for Oracle:
         <a href="assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank">
           <img src="assets/certificates/cr_python_for_dta_scinece.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/cr_python_for_dta_scinece.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
   </tr>
@@ -235,7 +249,7 @@ Example for Oracle:
         <a href="assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank">
           <img src="assets/certificates/traning_ibm_skillbuild.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/traning_ibm_skillbuild.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -248,7 +262,7 @@ Example for Oracle:
         <a href="assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank">
           <img src="assets/certificates/traning-ibm_internship_ain.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/traning-ibm_internship_ain.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
   </tr>
@@ -263,7 +277,7 @@ Example for Oracle:
         <a href="assets/certificates/tr_powerbi_internship.jpeg" target="_blank">
           <img src="assets/certificates/tr_powerbi_internship.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/tr_powerbi_internship.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/tr_powerbi_internship.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -276,7 +290,7 @@ Example for Oracle:
         <a href="assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank">
           <img src="assets/certificates/trnaing_indian_space_academy.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
         </a>
-        <p><a href="assets/certificates/trnaing_indian_space_academy.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+        <p><a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
   </tr>

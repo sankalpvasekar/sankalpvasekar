@@ -183,7 +183,7 @@ Example for Oracle:
 
 <table width="100%" border="0" cellspacing="0" cellpadding="16">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🏅 OCI: Generative AI Professional</h4>
       <p>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -191,7 +191,7 @@ Example for Oracle:
       </p>
       <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ao_profesisonal.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🏅 OCI: Generative AI Foundations</h4>
       <p>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -199,9 +199,7 @@ Example for Oracle:
       </p>
       <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ai_foundation.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🎓 NPTEL: Database Management System</h4>
       <p>
         <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
@@ -209,7 +207,9 @@ Example for Oracle:
       </p>
       <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_dbms.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h4>🎓 NPTEL: Python for Data Science</h4>
       <p>
         <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
@@ -217,9 +217,7 @@ Example for Oracle:
       </p>
       <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>💼 IBM SkillsBuild: AI Foundations</h4>
       <p>
         <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -227,7 +225,7 @@ Example for Oracle:
       </p>
       <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>💼 IBM: AI Internship Certificate</h4>
       <p>
         <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -237,7 +235,7 @@ Example for Oracle:
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>📊 Forage: Power BI Job Simulation</h4>
       <p>
         <img src="https://img.shields.io/badge/Forage-000000?style=for-the-badge&logo=none" />
@@ -245,7 +243,7 @@ Example for Oracle:
       </p>
       <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/tr_powerbi_internship.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🚀 ISRO: Indian Space Academy</h4>
       <p>
         <img src="https://img.shields.io/badge/ISRO-FF9933?style=for-the-badge&logo=none" />
@@ -253,6 +251,7 @@ Example for Oracle:
       </p>
       <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-FF9933?style=for-the-badge&logo=none&logoColor=white" /></a>
     </td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 

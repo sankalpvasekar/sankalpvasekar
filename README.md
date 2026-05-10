@@ -133,72 +133,131 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ---
 
+### 🛡️ Professional Badges
+<p align="center">
+  <img src="assets/OCI_CLoud_Infrastrucutre_Bade.jpeg" width="180" />
+  <img src="assets/OCI AI FOUNDATION BADGE.jpeg" width="180" />
+  <img src="assets/OCI_AI _Proessional _Badge.jpg" width="180" />
+</p>
+<p align="center">
+  <img src="assets/Digital Sticker_Introduction to Large Language Models.png" width="180" />
+  <img src="assets/Digital Sticker_The Rise of Multiagent Systems.png" width="180" />
+  <img src="assets/Digital Sticker_IBM Granite Models for Software Development (1).png" width="180" />
+</p>
+<p align="center">
+  <img src="assets/CodeChefBadge.png" width="180" />
+</p>
+
+---
 
 ### 🏅 Certifications & Achievements
+
+<!-- 
+📌 HOW TO ADD CERTIFICATION BADGES:
+1. Go to your certification provider (Credly, Oracle, Microsoft, etc.)
+2. Click "Share" on your badge → Copy the embed/image URL
+3. Replace the placeholder URLs below with your actual badge image URLs
+4. Format: <img src="YOUR_BADGE_IMAGE_URL" width="120" />
+
+Example for Credly:
+  - Go to credly.com → Your Badges → Click a badge → Share → Copy embed link
+  - The URL looks like: https://images.credly.com/size/340x340/images/xxx/badge.png
+
+Example for Oracle:
+  - Go to your Oracle certification page → Download badge image
+-->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Oracle-OCI_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-        <p><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong><br/><em>Oracle (2025)</em></p>
+        <h4>🏅 OCI: Generative AI Professional</h4>
+        <a href="assets/certificates/cr_ao%20profesisonal.jpeg" target="_blank">
+          <img src="assets/certificates/cr_ao%20profesisonal.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/cr_ao%20profesisonal.jpeg"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/IBM-Agentic_AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-        <p><strong>Agentic AI: From Learner to Builder</strong><br/><em>IBM</em></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="left">
-        <img src="https://img.shields.io/badge/IBM-AI_Strategy_Internship-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-        <p><strong>IBM SkillsBuild AI Strategy & Business Intelligence Internship</strong><br/><em>IBM</em></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="left">
-        <img src="https://img.shields.io/badge/NPTEL-Python_for_Data_Science-D2691E?style=for-the-badge&logo=python&logoColor=white" />
-        <p><strong>Python for Data Science</strong><br/><em>NPTEL</em></p>
+        <h4>🏅 OCI: Generative AI Foundations</h4>
+        <a href="assets/certificates/cr_ai_foundation.jpeg" target="_blank">
+          <img src="assets/certificates/cr_ai_foundation.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/cr_ai_foundation.jpeg"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/NPTEL-DBMS-D2691E?style=for-the-badge&logo=database&logoColor=white" />
-        <p><strong>Database Management System</strong><br/><em>NPTEL</em></p>
+        <h4>🎓 NPTEL: Database Management System</h4>
+        <a href="assets/certificates/cr_dbms.jpeg" target="_blank">
+          <img src="assets/certificates/cr_dbms.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/cr_dbms.jpeg"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Hackathon-2k25_Winner-B8860B?style=for-the-badge&logo=none" />
-        <p><strong>Hackathon 2k25 Winner</strong><br/><em>SKN Sinhgad</em></p>
+        <h4>🎓 NPTEL: Python for Data Science</h4>
+        <a href="assets/certificates/cr_python%20for%20dta%20scinece.jpeg" target="_blank">
+          <img src="assets/certificates/cr_python%20for%20dta%20scinece.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/cr_python%20for%20dta%20scinece.jpeg"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Project-PBL_Certificate-008080?style=for-the-badge&logo=none" />
-        <p><strong>Project Based Learning Certificate</strong><br/><em>SKN Sinhgad</em></p>
+        <h4>💼 IBM SkillsBuild: AI Foundations</h4>
+        <a href="assets/certificates/trnaing_ibm%20skillbuild.jpeg" target="_blank">
+          <img src="assets/certificates/trnaing_ibm%20skillbuild.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/trnaing_ibm%20skillbuild.jpeg"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/CodeChef-Diamond_Badge-000000?style=for-the-badge&logo=codechef&logoColor=white" />
-        <p><strong>Diamond Badge</strong><br/><em>CodeChef</em></p>
+        <h4>💼 IBM: AI Internship Certificate</h4>
+        <a href="assets/certificates/traning-ibm%20internship_ain.jpeg" target="_blank">
+          <img src="assets/certificates/traning-ibm%20internship_ain.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/traning-ibm%20internship_ain.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>📊 Forage: Power BI Job Simulation</h4>
+        <a href="assets/certificates/tr_powerbi_internship.jpeg" target="_blank">
+          <img src="assets/certificates/tr_powerbi_internship.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/tr_powerbi_internship.jpeg"><b>VIEW CERTIFICATE</b></a></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>🚀 ISRO: Indian Space Academy</h4>
+        <a href="assets/certificates/trnaing_indian%20space%20academy.jpeg" target="_blank">
+          <img src="assets/certificates/trnaing_indian%20space%20academy.jpeg" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
+        </a>
+        <p><a href="assets/certificates/trnaing_indian%20space%20academy.jpeg"><b>VIEW CERTIFICATE</b></a></p>
       </div>
     </td>
   </tr>
 </table>
 
-**Additional Highlights**
+<br/>
+
+**Key Achievements**
 - 🏆 **Contract Developer** — Prime Educational Services
+- 🥇 **Hackathon Winner** — SKNSCOE 2025
 - 🥇 **Golden Badge in Python** — HackerRank
 - 🏆 **Spectrum UI/UX Competition Winner**
+- 💎 **Diamond Badge** — CodeChef
 
 ---
 

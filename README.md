@@ -12,6 +12,10 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
   <a href="https://sankalpvasekar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-sankalpvasekar.vercel.app-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/CSE.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-CSE.pdf-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+  </a>
 </p>
 
 ---

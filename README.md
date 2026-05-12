@@ -10,12 +10,10 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 <p align="center">
   <a href="https://sankalpvasekar.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00F3FF&height=120&section=header&text=🌐%20ACCESS%20PORTFOLIO&fontSize=35&animation=twinkling" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,100:FFA500&height=150&section=header&text=🔱%20CORE%20PORTFOLIO&fontSize=35&animation=twinkling&fontAlignY=40" width="49%" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/sankalpvasekar/sankalpvasekar/blob/main/assets/resume.pdf" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FF007A&height=120&section=header&text=📄%20SYSTEM%20RESUME&fontSize=35&animation=twinkling&reversal=true" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,100:FFA500&height=150&section=header&text=🛡️%20SYSTEM%20RESUME&fontSize=35&animation=twinkling&reversal=true&fontAlignY=40" width="49%" />
   </a>
 </p>
 

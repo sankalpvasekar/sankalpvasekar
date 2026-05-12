@@ -154,10 +154,10 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
   <img src="assets/Digital Sticker_Introduction to Large Language Models.png" width="180" />
   <img src="assets/Digital Sticker_The Rise of Multiagent Systems.png" width="180" />
   <img src="assets/Digital Sticker_IBM Granite Models for Software Development (1).png" width="180" />
+  <img src="assets/image.png" width="180" />
 </p>
 <p align="center">
   <img src="assets/CodeChefBadge.png" width="180" />
-  <img src="assets/image.png" width="180" />
 </p>
 
 ---

@@ -10,10 +10,10 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 <p align="center">
   <a href="https://sankalpvasekar.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=🌐%20LIVE%20PORTFOLIO&fontSize=25&animation=twinkling" width="48%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🌐%20ENTER%20PORTFOLIO&fontSize=25&animation=twinkling" width="49%" />
   </a>
   <a href="https://github.com/sankalpvasekar/sankalpvasekar/blob/main/assets/resume.pdf" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=00F3FF&height=100&section=header&text=📄%20SYSTEM%20RESUME&fontSize=25&animation=twinkling" width="48%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00F3FF&height=120&section=header&text=📄%20DOWNLOAD%20RESUME&fontSize=25&animation=twinkling" width="49%" />
   </a>
 </p>
 
@@ -21,13 +21,11 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ### 🛠️ My Tech Stack
 
-#### 🤖 AI / ML & LLM Engineering
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=header&text=🤖%20AI%20/%20ML%20&%20LLM%20ENGINEERING&fontSize=22&animation=twinkling" width="100%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,pandas,numpy" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" />
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-00E5FF?style=plastic&logo=langchain&logoColor=black" />
   <img src="https://img.shields.io/badge/LangGraph-412991?style=plastic&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF4B11?style=plastic&logo=none" />
@@ -35,27 +33,16 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
   <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=plastic&logo=none&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=plastic&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=plastic&logo=none" />
-  <img src="https://img.shields.io/badge/NLP-008080?style=plastic&logo=none" />
 </p>
 
-#### 🌐 Full Stack Development
-<p align="left">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=header&text=🌐%20FULL%20STACK%20DEVELOPMENT&fontSize=22&animation=twinkling" width="100%" />
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,django,flask,fastapi,tailwind,nodejs,bootstrap" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Django_REST-092E20?style=plastic&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=plastic&logo=postman&logoColor=white" />
-</p>
 
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
-</p>
-
-#### ☁️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,vscode,linux,docker,azure,bash" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=header&text=🗄️%20DATABASES%20&%20CLOUD&fontSize=22&animation=twinkling" width="100%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,azure" />
 </p>
 
 ---
@@ -163,103 +150,30 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ### 🏅 Certifications & Achievements
 
-<!-- 
-📌 HOW TO ADD CERTIFICATION BADGES:
-1. Go to your certification provider (Credly, Oracle, Microsoft, etc.)
-2. Click "Share" on your badge → Copy the embed/image URL
-3. Replace the placeholder URLs below with your actual badge image URLs
-4. Format: <img src="YOUR_BADGE_IMAGE_URL" width="120" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=PRO%20CREDENTIALS%20SHOWCASE&fontSize=40&animation=twinkling" width="100%" />
+</p>
 
-Example for Credly:
-  - Go to credly.com → Your Badges → Click a badge → Share → Copy embed link
-  - The URL looks like: https://images.credly.com/size/340x340/images/xxx/badge.png
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F80000&height=40&width=450&section=header&text=🏅%20OCI:%20GEN%20AI%20PROFESSIONAL&fontSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F80000&height=40&width=450&section=header&text=🏅%20OCI:%20GEN%20AI%20FOUNDATIONS&fontSize=16" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4285F4&height=40&width=450&section=header&text=🎓%20NPTEL:%20DBMS%20SPECIALIST&fontSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=40&width=450&section=header&text=🎓%20NPTEL:%20PYTHON%20DATA%20SCIENCE&fontSize=16" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=052FAD&height=40&width=450&section=header&text=💼%20IBM:%20AI%20FOUNDATIONS&fontSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=007808&height=40&width=450&section=header&text=💼%20IBM:%20AI%20INTERNSHIP&fontSize=16" />
+</div>
 
-Example for Oracle:
-  - Go to your Oracle certification page → Download badge image
--->
+<br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=F80000&height=40&section=header&text=🏅%20OCI:%20GEN%20AI%20PROFESSIONAL&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ao_profesisonal.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/ORACLE-VERIFIED-F80000?style=plastic&logo=oracle&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=F80000&height=40&section=header&text=🏅%20OCI:%20GEN%20AI%20FOUNDATIONS&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ai_foundation.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/ORACLE-FOUNDATIONS-F80000?style=plastic&logo=oracle&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=4285F4&height=40&section=header&text=🎓%20NPTEL:%20DBMS%20SPECIALIST&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_dbms.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/NPTEL-DBMS-4285F4?style=plastic&logo=google-scholar&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=40&section=header&text=🎓%20NPTEL:%20PYTHON%20FOR%20DATA%20SCIENCE&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/NPTEL-PYTHON-3776AB?style=plastic&logo=python&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=052FAD&height=40&section=header&text=💼%20IBM:%20AI%20FOUNDATIONS&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/IBM-AI_FOUNDATIONS-052FAD?style=plastic&logo=ibm&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=007808&height=40&section=header&text=💼%20IBM:%20AI%20INTERNSHIP&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/IBM-INTERNSHIP-007808?style=plastic&logo=none&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=F2C811&height=40&section=header&text=📊%20FORAGE:%20POWER%20BI%20SIMULATION&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/tr_powerbi_internship.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/FORAGE-POWER_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=FF9933&height=40&section=header&text=🚀%20ISRO:%20SPACE%20ACADEMY&fontSize=18&animation=twinkling" width="100%" />
-      <p align="center">
-        <br/>
-        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank">
-          <img src="https://img.shields.io/badge/ISRO-SPACE_TECH-FF9933?style=plastic&logo=none&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/OCI_CLoud_Infrastrucutre_Bade.jpeg" width="160" />
+  <img src="assets/OCI AI FOUNDATION BADGE.jpeg" width="160" />
+  <img src="assets/OCI_AI _Proessional _Badge.jpg" width="160" />
+  <img src="assets/Digital Sticker_Introduction to Large Language Models.png" width="160" />
+  <img src="assets/Digital Sticker_The Rise of Multiagent Systems.png" width="160" />
+</p>
 
 
 

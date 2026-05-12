@@ -157,6 +157,7 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 </p>
 <p align="center">
   <img src="assets/CodeChefBadge.png" width="180" />
+  <img src="assets/image.png" width="180" />
 </p>
 
 ---

@@ -20,40 +20,41 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ---
 
-### 🛠️ My Technical Stack
+### 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,cpp" />
+#### 🤖 AI / ML & LLM Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy" />
 </p>
-
-<p align="center">
-  <b>— Frontend —</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,vite" />
-</p>
-
-<p align="center">
-  <b>— Backend & AI —</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,sklearn,opencv,openai" />
-  <br/>
+<p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF4B11?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=none&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=none" />
 </p>
 
-<p align="center">
-  <b>— Databases —</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+#### 🌐 Full Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,django,flask,fastapi,tailwind" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>— DevOps & Tools —</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,arduino" />
-  <br/>
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
+</p>
+
+#### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,vscode,linux" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 </p>
 
 ---

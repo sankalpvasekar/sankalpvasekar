@@ -3,8 +3,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&height=30&width=450&lines=AI%2FML+Engineer+%7C+Data+Scientist;Full+Stack+Developer" />
 </div>
 
-### Hi there, I'm Sankalp! 👋
-I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Hi there, I'm Sankalp! 👋</h3>
+      I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/RahulDKJain/github-profile-readme-generator/blob/master/src/addons/coding.gif?raw=true" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 

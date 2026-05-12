@@ -10,10 +10,10 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 <p align="center">
   <a href="https://sankalpvasekar.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,100:FFA500&height=120&section=header&text=PORTFOLIO&fontSize=30&animation=twinkling&fontAlignY=40&fontAlign=30" width="49%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,100:FFA500&height=120&section=header&text=PORTFOLIO&fontSize=30&animation=twinkling&fontAlign=right&fontAlignY=40" width="49%" />
   </a>
   <a href="https://github.com/sankalpvasekar/sankalpvasekar/blob/main/assets/resume.pdf" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,100:FFA500&height=120&section=header&text=RESUME&fontSize=30&animation=twinkling&reversal=true&fontAlignY=40&fontAlign=70" width="49%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,100:FFA500&height=120&section=header&text=RESUME&fontSize=30&animation=twinkling&reversal=true&fontAlign=left&fontAlignY=40" width="49%" />
   </a>
 </p>
 

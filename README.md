@@ -8,14 +8,20 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ---
 
-<p align="center">
-  <a href="https://sankalpvasekar.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=00F3FF&height=80&section=header&text=▶%20CORE%20PORTFOLIO&fontSize=25&animation=twinkling" width="49%" />
-  </a>
-  <a href="https://github.com/sankalpvasekar/sankalpvasekar/blob/main/assets/resume.pdf" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=FF007A&height=80&section=header&text=▶%20SYSTEM%20RESUME&fontSize=25&animation=twinkling&reversal=true" width="49%" />
-  </a>
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://sankalpvasekar.vercel.app/" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=🌐%20CORE%20PORTFOLIO&fontSize=30&animation=twinkling&fontAlignY=35" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sankalpvasekar/sankalpvasekar/blob/main/assets/resume.pdf" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=00F3FF&height=140&section=header&text=📄%20SYSTEM%20RESUME&fontSize=30&animation=twinkling&fontAlignY=35" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

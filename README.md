@@ -22,39 +22,39 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ### 🛠️ My Tech Stack
 
-#### 🤖 AI / ML & LLM Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F3FF&center=false&vCenter=true&width=500&lines=🤖+AI+/+ML+&+LLM+Engineering" />
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy,tensorflow,pytorch,opencv" />
 </p>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=35&width=140&text=LangChain&fontSize=16&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=412991&height=35&width=140&text=LangGraph&fontSize=16&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4B11&height=35&width=80&text=RAG&fontSize=16&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=35&width=80&text=LLMs&fontSize=16&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=35&width=180&text=Prompt%20Engineering&fontSize=16&animation=twinkling&fontColor=000000" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=412991&height=35&width=140&text=OpenAI%20API&fontSize=16&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=35&width=130&text=Vector%20DB&fontSize=16&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=008080&height=35&width=80&text=NLP&fontSize=16&animation=twinkling" />
+  <img src="https://img.shields.io/badge/LangChain-00E5FF?style=plastic&logo=langchain&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangGraph-412991?style=plastic&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF4B11?style=plastic&logo=none" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=plastic&logo=none&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=plastic&logo=none" />
+  <img src="https://img.shields.io/badge/NLP-008080?style=plastic&logo=none" />
 </p>
 
-#### 🌐 Full Stack Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF007A&center=false&vCenter=true&width=500&lines=🌐+Full+Stack+Development" />
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,django,flask,fastapi,tailwind,nodejs,bootstrap" />
 </p>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=092E20&height=35&width=140&text=Django%20REST&fontSize=16&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=009688&height=35&width=120&text=REST%20APIs&fontSize=16&animation=twinkling" />
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=plastic&logo=postman&logoColor=white" />
 </p>
 
-#### 🗄️ Databases
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=false&vCenter=true&width=500&lines=🗄️+Databases" />
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
 </p>
 
-#### ☁️ DevOps & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=☁️+DevOps+&+Tools" />
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,vscode,linux,docker,azure,bash" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F2C811&height=35&width=120&text=Power%20BI&fontSize=16&animation=twinkling&fontColor=000000" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
 </p>
 
 ---

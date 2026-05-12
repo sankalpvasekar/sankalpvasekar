@@ -22,39 +22,39 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ### 🛠️ My Tech Stack
 
-#### 🤖 AI / ML & LLM Engineering
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=header&text=🤖%20AI%20/%20ML%20&%20LLM%20Engineering&fontSize=25&animation=twinkling" width="100%" />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy,tensorflow,pytorch,opencv" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF4B11?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=none&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=none" />
-</p>
-
-#### 🌐 Full Stack Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,django,flask,fastapi,tailwind" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00E5FF?style=plastic&logo=langchain&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangGraph-412991?style=plastic&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF4B11?style=plastic&logo=none" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=plastic&logo=none&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=plastic&logo=none" />
+  <img src="https://img.shields.io/badge/NLP-008080?style=plastic&logo=none" />
 </p>
 
-#### 🗄️ Databases
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=header&text=🌐%20Full%20Stack%20Development&fontSize=25&animation=twinkling" width="100%" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,django,flask,fastapi,tailwind,nodejs,bootstrap" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=plastic&logo=postman&logoColor=white" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=header&text=🗄️%20Databases&fontSize=25&animation=twinkling" width="100%" />
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
 </p>
 
-#### ☁️ DevOps & Tools
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=header&text=☁️%20DevOps%20&%20Tools&fontSize=25&animation=twinkling" width="100%" />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,vscode,linux" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,vscode,linux,docker,azure,bash" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
 </p>
 
 ---

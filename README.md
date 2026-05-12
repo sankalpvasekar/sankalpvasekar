@@ -24,9 +24,11 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 #### 🤖 AI / ML & LLM Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv" />
 </p>
 <p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-00E5FF?style=plastic&logo=langchain&logoColor=black" />
   <img src="https://img.shields.io/badge/LangGraph-412991?style=plastic&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF4B11?style=plastic&logo=none" />

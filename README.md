@@ -10,11 +10,10 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 <p align="center">
   <a href="https://sankalpvasekar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-sankalpvasekar.vercel.app-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=🌐%20LIVE%20PORTFOLIO&fontSize=25&animation=twinkling" width="48%" />
   </a>
-  &nbsp;
   <a href="https://github.com/sankalpvasekar/sankalpvasekar/blob/main/assets/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-Open%20PDF-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=00F3FF&height=100&section=header&text=📄%20SYSTEM%20RESUME&fontSize=25&animation=twinkling" width="48%" />
   </a>
 </p>
 
@@ -179,77 +178,86 @@ Example for Oracle:
   - Go to your Oracle certification page → Download badge image
 -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="16">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="33%" valign="top">
-      <h4>🏅 OCI: Generative AI Professional</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gen_AI-000000?style=for-the-badge&logo=none" />
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=F80000&height=40&section=header&text=🏅%20OCI:%20GEN%20AI%20PROFESSIONAL&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ao_profesisonal.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/ORACLE-VERIFIED-F80000?style=plastic&logo=oracle&logoColor=white" />
+        </a>
       </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ao_profesisonal.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h4>🏅 OCI: Generative AI Foundations</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-        <img src="https://img.shields.io/badge/Foundations-000000?style=for-the-badge&logo=none" />
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=F80000&height=40&section=header&text=🏅%20OCI:%20GEN%20AI%20FOUNDATIONS&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ai_foundation.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/ORACLE-FOUNDATIONS-F80000?style=plastic&logo=oracle&logoColor=white" />
+        </a>
       </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_ai_foundation.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🎓 NPTEL: Database Management System</h4>
-      <p>
-        <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-        <img src="https://img.shields.io/badge/DBMS-008080?style=for-the-badge&logo=none" />
-      </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_dbms.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h4>🎓 NPTEL: Python for Data Science</h4>
-      <p>
-        <img src="https://img.shields.io/badge/NPTEL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=4285F4&height=40&section=header&text=🎓%20NPTEL:%20DBMS%20SPECIALIST&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_dbms.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/NPTEL-DBMS-4285F4?style=plastic&logo=google-scholar&logoColor=white" />
+        </a>
       </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h4>💼 IBM SkillsBuild: AI Foundations</h4>
-      <p>
-        <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-        <img src="https://img.shields.io/badge/SkillsBuild-FF8C00?style=for-the-badge&logo=none" />
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=40&section=header&text=🎓%20NPTEL:%20PYTHON%20FOR%20DATA%20SCIENCE&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/cr_python_for_dta_scinece.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/NPTEL-PYTHON-3776AB?style=plastic&logo=python&logoColor=white" />
+        </a>
       </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💼 IBM: AI Internship Certificate</h4>
-      <p>
-        <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-        <img src="https://img.shields.io/badge/Internship-007808?style=for-the-badge&logo=none" />
-      </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-007808?style=for-the-badge&logo=none&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h4>📊 Forage: Power BI Job Simulation</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Forage-000000?style=for-the-badge&logo=none" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=052FAD&height=40&section=header&text=💼%20IBM:%20AI%20FOUNDATIONS&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning_ibm_skillbuild.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/IBM-AI_FOUNDATIONS-052FAD?style=plastic&logo=ibm&logoColor=white" />
+        </a>
       </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/tr_powerbi_internship.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h4>🚀 ISRO: Indian Space Academy</h4>
-      <p>
-        <img src="https://img.shields.io/badge/ISRO-FF9933?style=for-the-badge&logo=none" />
-        <img src="https://img.shields.io/badge/Space_Tech-138808?style=for-the-badge&logo=none" />
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=007808&height=40&section=header&text=💼%20IBM:%20AI%20INTERNSHIP&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/traning-ibm_internship_ain.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/IBM-INTERNSHIP-007808?style=plastic&logo=none&logoColor=white" />
+        </a>
       </p>
-      <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-FF9933?style=for-the-badge&logo=none&logoColor=white" /></a>
     </td>
-    <td width="33%" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=F2C811&height=40&section=header&text=📊%20FORAGE:%20POWER%20BI%20SIMULATION&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/tr_powerbi_internship.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/FORAGE-POWER_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=FF9933&height=40&section=header&text=🚀%20ISRO:%20SPACE%20ACADEMY&fontSize=18&animation=twinkling" width="100%" />
+      <p align="center">
+        <br/>
+        <a href="https://raw.githubusercontent.com/sankalpvasekar/sankalpvasekar/main/assets/certificates/trnaing_indian_space_academy.jpeg" target="_blank">
+          <img src="https://img.shields.io/badge/ISRO-SPACE_TECH-FF9933?style=plastic&logo=none&logoColor=white" />
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 

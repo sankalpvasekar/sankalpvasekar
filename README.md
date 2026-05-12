@@ -22,7 +22,7 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
 
 ### 🛠️ My Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F3FF&center=false&vCenter=true&width=500&lines=🤖+AI+/+ML+&+LLM+Engineering" />
+#### 🤖 AI / ML & LLM Engineering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy,tensorflow,pytorch,opencv" />
 </p>
@@ -37,7 +37,7 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
   <img src="https://img.shields.io/badge/NLP-008080?style=plastic&logo=none" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF007A&center=false&vCenter=true&width=500&lines=🌐+Full+Stack+Development" />
+#### 🌐 Full Stack Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,django,flask,fastapi,tailwind,nodejs,bootstrap" />
 </p>
@@ -46,12 +46,12 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=plastic&logo=postman&logoColor=white" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=false&vCenter=true&width=500&lines=🗄️+Databases" />
+#### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=☁️+DevOps+&+Tools" />
+#### ☁️ DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,githubactions,vscode,linux,docker,azure,bash" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />

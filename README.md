@@ -7,7 +7,7 @@
 
 <div align="left">
   <h3>Hi there, I'm Sankalp! 👋</h3>
-  I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
+  I am a <b>Computer Engineer</b> with a specialization in <b>AI/ML</b> and <b>Multi-Agent Systems</b>. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
 </div>
 
 <br clear="right"/>

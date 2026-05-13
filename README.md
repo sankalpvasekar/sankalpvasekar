@@ -3,10 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&height=30&width=450&lines=AI%2FML+Engineer+%7C+Data+Scientist;Full+Stack+Developer" />
 </div>
 
-<img align="right" src="assets/gifs/pro_coder.gif" width="230" />
+<img align="right" src="assets/gifs/pro_coder.gif" width="200" />
 
-### Hi there, I'm Sankalp! 👋
-I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
+<div align="left">
+  <h3>Hi there, I'm Sankalp! 👋</h3>
+  I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
+</div>
 
 <br clear="right"/>
 

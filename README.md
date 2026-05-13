@@ -6,7 +6,9 @@
 <img align="right" src="assets/gifs/pro_coder.gif" width="250" />
 
 ### Hi there, I'm Sankalp! 👋
-I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
+<p align="justify">
+  I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
+</p>
 
 ---
 

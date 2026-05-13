@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=80&section=header&text=SANKALP%20VASEKAR&fontSize=36&fontColor=FF0000&fontAlignY=50&animation=twinkling&shadow=true" width="100%" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&height=30&width=450&lines=AI%2FML+Engineer+%7C+Data+Scientist;Full+Stack+Developer" />
+  <br/>
+  <img src="assets/gifs/pro_coder.gif" width="600" />
 </div>
-
-<img align="right" src="https://raw.githubusercontent.com/RahulDKJain/github-profile-readme-generator/master/src/addons/coding.gif" width="250" />
 
 ### Hi there, I'm Sankalp! 👋
 I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agent Systems**. I build end-to-end AI solutions — from RAG-based research assistants to neural localization engines and predictive analytics platforms.
@@ -151,12 +151,13 @@ I am a **Computer Engineer** with a specialization in **AI/ML** and **Multi-Agen
   <img src="assets/OCI_CLoud_Infrastrucutre_Bade.jpeg" width="180" />
   <img src="assets/OCI AI FOUNDATION BADGE.jpeg" width="180" />
   <img src="assets/OCI_AI _Proessional _Badge.jpg" width="180" />
+  <img src="assets/image.png" width="180" />
+  <img src="assets/gifs/pro_coder.gif" width="180" />
 </p>
 <p align="center">
   <img src="assets/Digital Sticker_Introduction to Large Language Models.png" width="180" />
   <img src="assets/Digital Sticker_The Rise of Multiagent Systems.png" width="180" />
   <img src="assets/Digital Sticker_IBM Granite Models for Software Development (1).png" width="180" />
-  <img src="assets/image.png" width="180" />
 </p>
 <p align="center">
   <img src="assets/CodeChefBadge.png" width="180" />
